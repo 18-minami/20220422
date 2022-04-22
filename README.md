@@ -5,13 +5,14 @@
 [VALORANT](https://playvalorant.com/ja-jp/) 　　
 [APEX](https://www.ea.com/ja-jp/games/apex-legends/news)　　　
 を主にしています　　　
-　　　　
-最近また配信再開しようかなって考えています。　　　　　
+
+
+#最近
 　　　　
 先月valoでイモータルになりました〜、apexでいうマスター上位くらいですすごいでしょ褒めてください　
 　　　
 それと来月でカフェ店員３年目になりそうです、、、　　　
-　　　　　s
+　　　　　
 新鮮味が無くなって来て楽しくは無いです＾ｖ＾　　　
 
 
