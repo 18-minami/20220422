@@ -4,9 +4,9 @@
 今しているゲームは
 [VALORANT](https://playvalorant.com/ja-jp/) 　　
 [APEX](https://www.ea.com/ja-jp/games/apex-legends/news)　　　
-を主にしています
+を主にしています　　　
 
-最近また配信再開しようかなって考えています。　　
+最近また配信再開しようかなって考えています。　　　　　
 　　
 先月valoでイモータルになりました〜、apexでいうマスター上位くらいですすごいでしょ褒めてください　
 　
