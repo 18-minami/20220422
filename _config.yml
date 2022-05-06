@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: みなみのホームページ
 description: GitHub Pagesで作りました
 logo: /shyyki.png
+plugins:
+  - jekyll-sitemap
