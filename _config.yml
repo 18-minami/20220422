@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: みなみのホームページ
 description: GitHub Pagesで作りました
-logo: /shyyki.png
+logo:　shyyki.png
 plugins:
   - jekyll-sitemap
 google_analytics:　UA-228711187-1
